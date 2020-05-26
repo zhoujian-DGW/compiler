@@ -1,0 +1,12 @@
+void main()
+{
+    int x0e,AB,C;
+    x0e=(AB+C*C)/8;
+    if(){}
+    else{}
+    for(x=0;x++;x<10)
+    {
+        i++;
+    }
+    do{} while(i<10);
+}
