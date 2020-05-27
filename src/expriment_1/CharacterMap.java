@@ -47,6 +47,7 @@ public class CharacterMap {
             characterMap.put("while",new Character("关键字","while",32));
             characterMap.put("do",new Character("关键字","do",33));
             characterMap.put("return",new Character("关键字","return",33));
+            characterMap.put("then",new Character("关键字","then",34));
         }
         return characterMap;
     }
@@ -62,6 +63,7 @@ public class CharacterMap {
             keywordMap.put("while","while".hashCode());
             keywordMap.put("do","eo".hashCode());
             keywordMap.put("return","return".hashCode());
+            keywordMap.put("then","then".hashCode());
         }
         return keywordMap;
     }
@@ -95,4 +97,5 @@ public class CharacterMap {
         }
         return sCharacterMap;
     }
+
 }
